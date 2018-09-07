@@ -1,0 +1,23 @@
+		    	     Second Generation: Transistors(1956-1973)
+
+The world would see transistors replace vaccum tubes in the second generation of computers. The transistor was invented at Bell Labs in 1947 but did not see widespread use in computers untill the late 1950s.
+
+The transistor was far superior to the vacuum tube, allowing computers to become smaller, faster, cheaper, more energy-efficient and more reliable than their first-generation predecessors. Though the transistor still generated a great deal of heat that subjected the computer to damage, it was a vast improvement over the vacuum tube. Second-generation computers still relied on punched cards for input and printouts for output.
+
+Second-generation computers moved from cryptic binary machine language to symbolic, or assembly, languages, which allowed programmers to specify instructions in words. High-level programming languages were also being developed at this time, such as early versions of COBOL and FORTRAN. These were also the first computers that stored their instructions in their memory, which moved from a magnetic drum to magnetic core technology.
+
+The first computers of this generation were developed for the atomic energy industry.
+
+The main features of second generation are −
+
+   1. Use of transistors
+   2. Reliable in comparison to first generation computers
+   3. Smaller size as compared to first generation computers
+   4. Generated less heat as compared to first generation computers
+   5. Consumed less electricity as compared to first generation computers
+   6. Faster than first generation computers
+   7. Still very costly
+   8. AC required
+   9. Supported machine and assembly languages
+
+
